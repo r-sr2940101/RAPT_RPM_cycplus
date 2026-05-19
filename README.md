@@ -1,5 +1,5 @@
 [cadence_graph.html](https://github.com/user-attachments/files/27993660/cadence_graph.html)
-
+<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">

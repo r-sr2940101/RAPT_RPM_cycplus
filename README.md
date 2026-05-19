@@ -1,6 +1,5 @@
 [cadence_graph.html](https://github.com/user-attachments/files/27993660/cadence_graph.html)
-# RAPT_RPM_cycplus
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
